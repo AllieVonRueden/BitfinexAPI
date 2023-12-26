@@ -83,3 +83,4 @@ namespace BitfinexApi
         public decimal availableBTC = 0;
     }
 }
+ 
